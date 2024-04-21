@@ -7,20 +7,22 @@ public class Main {
         long d = 1800000;
         float e = 9.85f;
         double f = 3.14159265;
-        System.out.println("int a =" + a);
-        System.out.println("byte b=" + b);
-        System.out.println("short c=" + c);
-        System.out.println("long d=" + d);
-        System.out.println("float e =" + e);
-        System.out.println("double f =" + f);
+        System.out.printf("int a=" + a + "%n");
+        System.out.printf("byte b=" + b + "%n");
+        System.out.printf("short c=" + c + "%n");
+        System.out.printf("long d=" + d + "%n");
+        System.out.printf("float e =" + e + "%n");
+        System.out.printf("double f =" + f + "%n");
+
         //задание №2
-        long aa=987_678_965_549L;;
-        int ab=27897;
-        double ac=27.12;
-        float ae=2.786f;
-        int af=569;
-        byte ag=67;
-        short ah=-159;
+        long aa = 987_678_965_549L;
+        ;
+        int ab = 27897;
+        double ac = 27.12;
+        float ae = 2.786f;
+        int af = 569;
+        byte ag = 67;
+        short ah = -159;
 
 
 //задание 3//
